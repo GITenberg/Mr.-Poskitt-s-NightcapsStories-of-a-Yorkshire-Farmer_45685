@@ -1,0 +1,34 @@
+_repo: Mr.-Poskitt-s-NightcapsStories-of-a-Yorkshire-Farmer_45685
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45685-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Fletcher, J. S. (Joseph Smith)
+    alias: Fletcher, Joseph Smith
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '1761'
+    url: http://www.gutenberg.org/2009/agents/1761
+    wikipedia: http://en.wikipedia.org/wiki/J._S._Fletcher
+description: ''
+gutenberg_issued: '2014-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yorkshire (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+tableOfContents: The guardian of High Elms Farm -- A stranger in Arcady -- The man
+  who was nobody -- Little Miss Partridge -- The marriage of Mr. Jarvis -- Bread cast
+  upon the waters -- William Henry and the dairymaid -- The spoils to the victor --
+  An Arcadian courtship -- The way of the comet -- Brothers in affliction -- A man
+  or a mouse -- A deal in odd volumes -- The chief magistrate.
+title: 'Mr. Poskitt''s Nightcaps: Stories of a Yorkshire Farmer'
+url: http://www.gutenberg.org/ebooks/45685
